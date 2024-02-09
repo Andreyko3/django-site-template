@@ -1,5 +1,5 @@
 # django-site-template
-django registration template
+django registration and sing in template
 
 
 Run:
