@@ -2,10 +2,10 @@
 django registration and sing in template
 
 
-Run:
+# Run:
 
-python manage.py makemigrations
+```python manage.py makemigrations```
 
-python manage.py migrate
+```python manage.py migrate```
 
-python manage.py runserver
+```python manage.py runserver```
